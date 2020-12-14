@@ -7,3 +7,5 @@ phonebook management
 | tcl          | 8.7     | ui (user interface)     |
 | tkinter      | 8.7     | tcl wrapper for python  |
 | sqlite3      | 2.6.0   | database                |
+# Keyboard Shortcuts
+Control + a = Add Contact
